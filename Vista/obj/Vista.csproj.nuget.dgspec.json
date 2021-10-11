@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Vista\\Vista.csproj": {}
+  },
+  "projects": {
+    "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\LetMeKnow\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LetMeKnow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\LetMeKnow\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LetMeKnow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Vista\\Vista.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Vista\\Vista.csproj",
+        "projectName": "Vista",
+        "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Vista\\Vista.csproj",
+        "packagesPath": "C:\\Users\\LetMeKnow\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Vista\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LetMeKnow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\Datos.csproj": {
+                "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Datos\\Datos.csproj"
+              },
+              "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Universidad\\Ing Software3\\Proyecto\\Veterinaria\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

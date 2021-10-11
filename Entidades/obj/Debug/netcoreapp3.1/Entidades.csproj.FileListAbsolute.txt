@@ -1,0 +1,10 @@
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+D:\Universidad\Ing Software3\Proyecto\Veterinaria\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

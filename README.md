@@ -1,3 +1,4 @@
-# Proyecto_Mascotas
+# Proyecto para manejo de citas veterinarias ALMAJECAOS
 
-proyecto para la universidad 
+Este proyecto se desarrolla como una un tablajo de clase para para la Corporacion universitaria REMINGTON
+
